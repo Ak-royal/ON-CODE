@@ -15,7 +15,32 @@ background-color: #333;
 }
 /*Navbar for ide*/
 
+/*search */
 
+.search-container {
+  display: flex;
+  
+}
+
+.search-container input[type=text] {
+  
+  margin-right: 20px;
+  font-size: 17px;
+  border:none;
+  width: 50%;
+ 
+  margin-left: 480px;
+  border-radius: 20px;
+  margin-top: 10px;
+  height: 5vh;
+  padding: 15px;
+}
+
+
+
+
+
+/*search */
 
 ul {
   list-style-type: none;
